@@ -1,4 +1,4 @@
-### Hello Gurizada, Weber aqui!
+### What's up Gurizada, Weber aqui!
 
 - 🔭 Working on Next.js / Neo4j
 - 🌱 Learning JavaScript 
