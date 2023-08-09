@@ -1,6 +1,6 @@
 ### What's up guys, Weber here!
 
-- 🔭 Working with Javascript / MySQL
+- 🔭 Working with Javascript, HTML and CSS.
 - 🌱 Learning React/Next 
 
 <div style="display: inline_block"><br>
