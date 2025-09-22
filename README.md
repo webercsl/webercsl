@@ -1,16 +1,37 @@
-### What's up guys, Weber here!
+# 👋 Hey, I'm Gustavo Weber
 
-- 🔭 Fullstack Developer.
+💻 **Fullstack Developer** | 🚀 Buscando construir soluções digitais escaláveis, intuitivas e de impacto.  
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<div> 
+Atualmente atuo em projetos que combinam **frontend moderno**, **backend serverless** e **ciência de dados**, sempre buscando boas práticas de desenvolvimento e experiência do usuário.
 
-  ##
+---
 
-  <a href="https://www.instagram.com/webercsl1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/webercsl" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:weber1.caxias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-weber-4a14b11a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+## 🛠️ Tech Stack
+
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui  
+- **Backend & BaaS:** Supabase, Convex, Appwrite, Node.js  
+- **Data & AI:** Python, MONAI, PyTorch, Ignite (experiência com segmentação médica no TCC)  
+- **Outros:** Github, Gitlab, Docker, APIs REST/GraphQL  
+
+---
+
+## 🌐 Conecte-se comigo
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/webercsl/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:weber1.caxias@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/webercsl1/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.twitch.tv/webercsl" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+  </a>
 </div>
+
+---
+
+⭐ Sempre aberto a novas oportunidades, colaborações e desafios que envolvam **tecnologia, inovação e impacto real**.  
