@@ -1,8 +1,12 @@
 # 👋 Hey, I'm Gustavo Weber
 
-💻 **Fullstack Developer** | 🚀 Buscando construir soluções digitais escaláveis, intuitivas e de impacto.  
+💻 **Fullstack Developer** | **Graduated in Computer Engineer**
+
+🚀 Buscando construir soluções digitais escaláveis, intuitivas e de impacto. 
 
 Atualmente atuo em projetos que combinam **frontend moderno**, **backend serverless** e **ciência de dados**, sempre buscando boas práticas de desenvolvimento e experiência do usuário.
+
+Sempre aberto a novos desafios em outras Stacks, o que importa é programar.
 
 ---
 
